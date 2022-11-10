@@ -1,6 +1,6 @@
 import numpy as numpy
 import cv2
-import imutils
+
 
 
 imgs = []
