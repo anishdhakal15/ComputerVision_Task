@@ -15,9 +15,11 @@ Two images with different contour selection method
 <a href="https://drive.google.com/uc?export=view&id=1ituuQYa7CDzS8CRgICq_X5iYhnIKmn_k"><img src="https://drive.google.com/uc?export=view&id=1ituuQYa7CDzS8CRgICq_X5iYhnIKmn_k" style="width: 500px; max-width: 100%; height: auto" title="Click for the larger version." /></a>
 
 Which produces  this image
+
 <a href="https://drive.google.com/uc?export=view&id=1nUHUGhJ27TZXB071Fe-j29Rr8fkbSWzW"><img src="https://drive.google.com/uc?export=view&id=1nUHUGhJ27TZXB071Fe-j29Rr8fkbSWzW" style="width: 500px; max-width: 100%; height: auto" title="Click for the larger version." /></a>
 
 Similarly
+
 <a href="https://drive.google.com/uc?export=view&id=1ZBmbBm8ms0fscO_frBPZwPzmoCuAVM1T"><img src="https://drive.google.com/uc?export=view&id=1ZBmbBm8ms0fscO_frBPZwPzmoCuAVM1T" style="width: 500px; max-width: 100%; height: auto" title="Click for the larger version." /></a>
 
 
