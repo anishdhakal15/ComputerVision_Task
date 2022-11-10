@@ -1,6 +1,5 @@
 import numpy as numpy
 import cv2
-import imutils
 
         # kernel = cv2.getStructuringElement(cv2.MORPH_RECT, (5,5))
         # close = cv2.morphologyEx(t2,cv2.MORPH_CLOSE,kernel,iterations=2)
